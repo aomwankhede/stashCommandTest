@@ -1,1 +1,1 @@
-completrechenbdg
+console.log("Hello World");
